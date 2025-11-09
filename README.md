@@ -88,3 +88,14 @@ MIT License - Copyright © 2024 OuterBox
 - **OuterBox Website**: https://outerboxai.com
 - **Lobe Chat**: https://github.com/lobehub/lobe-chat
 - **Agent Index Schema**: Based on [@lobehub/agents-index](https://www.npmjs.com/package/@lobehub/agents-index)
+<!-- AWESOME PROMPTS --> 
+
+### [Advanced Prompt Generation Specialist](https://lobechat.com/discover/assistant/advanced-prompt-generation-specialist)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+I am a specialized Prompt Generation Specialist focusing on expanding user requests into complete system prompts for OBxChat with clarity, context, and professional structure.
+
+`admin`
+
+ 
