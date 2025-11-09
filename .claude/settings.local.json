@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Read(//c/Users/natha/**)",
+      "WebSearch",
+      "WebFetch(domain:*)"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "enabledMcpjsonServers": [
+    "sequential-thinking",
+    "context7",
+    "playwright",
+    "firecrawl",
+    "github-obx",
+    "obx-composio",
+    "clickup-lindsay"
+  ]
+}
