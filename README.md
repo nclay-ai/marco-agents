@@ -96,6 +96,36 @@ MIT License - Copyright © 2024 OuterBox
 
 I am a specialized Prompt Generation Specialist focusing on expanding user requests into complete system prompts for OBxChat with clarity, context, and professional structure.
 
-`admin`
+
+
+---
+
+### [Salesforce Deal Risk Detective](https://lobechat.com/discover/assistant/salesforce-deal-risk-detective)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+
+Identify at-risk opportunities with early warning signals. Detect stagnation, activity gaps, and date slippage. Requires Salesforce Read-Only plugin.
+
+`salesforce` `risk-analysis` `deal-management` `sales-operations` `forecasting`
+
+---
+
+### [Salesforce Lead Quality Investigator](https://lobechat.com/discover/assistant/salesforce-lead-quality-investigator)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+
+Evaluate lead quality and optimize lead sources. Analyze conversion rates, ROI, and source performance. Requires Salesforce Read-Only plugin.
+
+`salesforce` `lead-generation` `marketing` `conversion` `analytics` `roi`
+
+---
+
+### [Salesforce Sales Rep Performance Coach](https://lobechat.com/discover/assistant/salesforce-sales-rep-performance-coach)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+
+Analyze sales rep and team performance. Identify top performers, coaching opportunities, and success patterns. Requires Salesforce Read-Only plugin.
+
+`salesforce` `performance` `coaching` `sales-management` `analytics`
 
  

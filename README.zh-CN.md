@@ -87,6 +87,36 @@
 
 `管理员`
 
+---
+
+### [Salesforce交易风险侦探](https://lobechat.com/discover/assistant/salesforce-deal-risk-detective)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+
+通过早期预警信号识别有风险的机会。检测停滞、活动间隙和日期滑动。需要Salesforce只读插件。
+
+`salesforce` `风险分析` `交易管理` `销售运营` `预测`
+
+---
+
+### [Salesforce 潜在客户质量调查员](https://lobechat.com/discover/assistant/salesforce-lead-quality-investigator)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+
+评估潜在客户质量并优化潜在客户来源。分析转化率、投资回报率和来源表现。需要 Salesforce 只读插件。
+
+`salesforce` `潜在客户生成` `营销` `转化` `分析` `投资回报率`
+
+---
+
+### [Salesforce 销售代表绩效教练](https://lobechat.com/discover/assistant/salesforce-sales-rep-performance-coach)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+
+分析销售代表和团队绩效。识别顶尖表现者、指导机会和成功模式。需要 Salesforce 只读插件。
+
+`salesforce` `绩效` `指导` `销售管理` `分析`
+
  <!-- AWESOME PROMPTS -->
 
 ## 🛳 自主托管
