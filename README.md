@@ -100,32 +100,92 @@ I am a specialized Prompt Generation Specialist focusing on expanding user reque
 
 ---
 
+### [Salesforce Account Health Monitor](https://lobechat.com/discover/assistant/salesforce-account-health-monitor)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Account relationship strategist tracking engagement health, MSA expirations, vendor status, and hierarchy coverage to maximize customer lifetime value and identify at-risk accounts.
+
+`salesforce` `account-management` `customer-success` `relationship-health` `retention`
+
+---
+
+### [Salesforce Campaign ROI Analyzer](https://lobechat.com/discover/assistant/salesforce-campaign-roi-analyzer)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Marketing ROI analyst measuring campaign effectiveness through lead generation, conversion rates, pipeline contribution, and revenue impact analysis across campaigns.
+
+`salesforce` `marketing` `roi-analysis` `campaign-management` `attribution`
+
+---
+
+### [Salesforce Contact Engagement Strategist](https://lobechat.com/discover/assistant/salesforce-contact-engagement-strategist)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Strategic contact relationship analyst monitoring engagement health, communication deliverability, Pardot scoring trends, and decision maker coverage to maximize relationship value.
+
+`salesforce` `contact-management` `relationship-health` `engagement` `pardot`
+
+---
+
 ### [Salesforce Deal Risk Detective](https://lobechat.com/discover/assistant/salesforce-deal-risk-detective)
 
-<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
 
-Identify at-risk opportunities with early warning signals. Detect stagnation, activity gaps, and date slippage. Requires Salesforce Read-Only plugin.
+Identifies at-risk opportunities by analyzing Salesforce Opportunity data for stagnation, disengagement, and warning signs. Uses PushCount, activity metrics, and qualification fields to prioritize intervention.
 
-`salesforce` `risk-analysis` `deal-management` `sales-operations` `forecasting`
-
----
-
-### [Salesforce Lead Quality Investigator](https://lobechat.com/discover/assistant/salesforce-lead-quality-investigator)
-
-<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
-
-Evaluate lead quality and optimize lead sources. Analyze conversion rates, ROI, and source performance. Requires Salesforce Read-Only plugin.
-
-`salesforce` `lead-generation` `marketing` `conversion` `analytics` `roi`
+`salesforce` `sales` `opportunity-management` `risk-analysis` `pipeline`
 
 ---
 
-### [Salesforce Sales Rep Performance Coach](https://lobechat.com/discover/assistant/salesforce-sales-rep-performance-coach)
+### [Salesforce Lead Lifecycle Analyst](https://lobechat.com/discover/assistant/salesforce-lead-lifecycle-analyst)
 
-<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
 
-Analyze sales rep and team performance. Identify top performers, coaching opportunities, and success patterns. Requires Salesforce Read-Only plugin.
+Comprehensive lead journey analyst providing end-to-end visibility into lead funnel performance, conversion patterns, scoring effectiveness, source attribution, and engagement trends across the entire lifecycle.
 
-`salesforce` `performance` `coaching` `sales-management` `analytics`
+`salesforce` `lead-management` `conversion-analysis` `funnel-optimization` `lifecycle`
+
+---
+
+### [Salesforce Marketing Attribution Expert](https://lobechat.com/discover/assistant/salesforce-marketing-attribution-expert)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Digital marketing attribution specialist analyzing UTM parameters, first-touch data, Pardot engagement, and multi-touch journeys to attribute revenue to specific channels and campaigns.
+
+`salesforce` `marketing` `attribution` `utm-tracking` `pardot`
+
+---
+
+### [Salesforce Pipeline Forecaster](https://lobechat.com/discover/assistant/salesforce-pipeline-forecaster)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Sales operations strategist analyzing pipeline health, forecast accuracy, stage velocity, and win probability patterns to improve revenue forecasting and predictability.
+
+`salesforce` `sales-ops` `forecasting` `pipeline-management` `revenue-ops`
+
+---
+
+### [Salesforce Revenue Intelligence Analyst](https://lobechat.com/discover/assistant/salesforce-revenue-intelligence-analyst)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Executive-level revenue analyst providing strategic insights on revenue trends, account value patterns, deal health, pipeline forecasting, and growth opportunities for C-level decision-making.
+
+`salesforce` `revenue-ops` `executive-analytics` `forecasting` `strategic-planning`
+
+---
+
+### [Salesforce Sales Performance Coach](https://lobechat.com/discover/assistant/salesforce-sales-performance-coach)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+Cross-functional sales analyst evaluating rep performance across Lead conversion, Contact engagement, and Opportunity execution to identify top performers and coaching opportunities.
+
+`salesforce` `sales-performance` `coaching` `sales-ops` `analytics`
 
  

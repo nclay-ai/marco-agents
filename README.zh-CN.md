@@ -89,9 +89,39 @@
 
 ---
 
+### [Salesforce 账户健康监控](https://lobechat.com/discover/assistant/salesforce-account-health-monitor)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+账户关系策略师跟踪参与健康、MSA 到期、供应商状态和层级覆盖，以最大化客户终身价值并识别有风险的账户。
+
+`salesforce` `账户管理` `客户成功` `关系健康` `保留`
+
+---
+
+### [Salesforce Campaign ROI 分析器](https://lobechat.com/discover/assistant/salesforce-campaign-roi-analyzer)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+营销ROI分析师，通过分析线索生成、转换率、管道贡献和收入影响来衡量活动的效果。
+
+`salesforce` `营销` `roi分析` `活动管理` `归因`
+
+---
+
+### [Salesforce 联系参与策略师](https://lobechat.com/discover/assistant/salesforce-contact-engagement-strategist)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+战略性联系人关系分析师，监控参与健康、沟通可达性、Pardot评分趋势和决策者覆盖率，以最大化关系价值。
+
+`salesforce` `联系人管理` `关系健康` `参与` `pardot`
+
+---
+
 ### [Salesforce交易风险侦探](https://lobechat.com/discover/assistant/salesforce-deal-risk-detective)
 
-<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
 
 通过早期预警信号识别有风险的机会。检测停滞、活动间隙和日期滑动。需要Salesforce只读插件。
 
@@ -99,23 +129,23 @@
 
 ---
 
-### [Salesforce 潜在客户质量调查员](https://lobechat.com/discover/assistant/salesforce-lead-quality-investigator)
+### [Salesforce潜在客户生命周期分析师](https://lobechat.com/discover/assistant/salesforce-lead-lifecycle-analyst)
 
-<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
 
-评估潜在客户质量并优化潜在客户来源。分析转化率、投资回报率和来源表现。需要 Salesforce 只读插件。
+全面的潜在客户旅程分析师，提供对潜在客户渠道表现、转化模式、评分效果、来源归因和整个生命周期的参与趋势的端到端可见性。
 
-`salesforce` `潜在客户生成` `营销` `转化` `分析` `投资回报率`
+`salesforce` `潜在客户管理` `转化分析` `渠道优化` `生命周期`
 
 ---
 
-### [Salesforce 销售代表绩效教练](https://lobechat.com/discover/assistant/salesforce-sales-rep-performance-coach)
+### [Salesforce营销归因专家](https://lobechat.com/discover/assistant/salesforce-marketing-attribution-expert)
 
-<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-01-14**</sup>
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
 
-分析销售代表和团队绩效。识别顶尖表现者、指导机会和成功模式。需要 Salesforce 只读插件。
+数字营销归因专家，分析UTM参数、首次接触数据、Pardot参与度和多接触旅程，将收入归因于特定渠道和活动。
 
-`salesforce` `绩效` `指导` `销售管理` `分析`
+`salesforce` `营销` `归因` `utm跟踪` `pardot`
 
  <!-- AWESOME PROMPTS -->
 
